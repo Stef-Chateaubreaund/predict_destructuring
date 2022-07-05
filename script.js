@@ -6,8 +6,8 @@ const [ ,otherRandomCar ] = cars
 console.log(randomCar)
 console.log (otherRandomCar)
 
-// *** Tesla
-// *** Mercedes
+//  Tesla
+//  Mercedes
 
 //  2
 const employee = {
@@ -19,7 +19,7 @@ const { name: otherName } = employee;
 //Predict the output
 console.log(name);
 console.log (otherName);
-// *** error
+//  error
 
 
 // 3
@@ -34,8 +34,8 @@ const { password: hashedPassword } = person;
 console.log(password);
 console.log (hashedPassword);
 
-// *** 12345
-// *** undefined
+// 12345
+//  undefined
 
 
 // 4
@@ -47,8 +47,8 @@ const [,,,,,,,,third] = numbers;
 console.log(first == second);
 console.log(first == third);
 
-// *** 2 == 5 /False
-// *** 2 == 2 / true
+// 2 == 5 /False
+// 2 == 2 / true
 
 
 
@@ -66,7 +66,7 @@ console.log(secondKey);
 console.log(secondKey[0]);
 console.log(willThisWork);
 
-//  *** value
-//  *** [1, 5, 1, 8, 3, 3]
-//  ***  1
-//  ***  5
+//   value
+//   [1, 5, 1, 8, 3, 3]
+//   1
+//   5
